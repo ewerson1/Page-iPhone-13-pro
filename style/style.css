@@ -139,7 +139,7 @@ header nav {
     transition: 0.5s;
 }
 
-#main-content #product-image .changing {
+#main-content #product-image.changing {
    opacity: 0.5;
 }
 

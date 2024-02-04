@@ -18,7 +18,7 @@ buttons.forEach((btn) => {
         image.setAttribute("src", `img/iphone_${id}.jpg`);
 
         setTimeout(() => {
-            image.classList.toogle("changing")
+            image.classList.remove("changing")
         }, 200)
 
     })
